@@ -1,0 +1,15 @@
+[Unit]
+Description=ComfyUI image server (127.0.0.1:8188)
+After=default.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/USER/comfyui-zimage
+ExecStart=/home/USER/comfyui-zimage/.venv/bin/python main.py --listen 127.0.0.1 --port 8188 --disable-auto-launch
+Restart=on-failure
+RestartSec=15
+StandardOutput=append:/home/USER/comfyui-zimage/comfy.log
+StandardError=append:/home/USER/comfyui-zimage/comfy.log
+
+[Install]
+WantedBy=default.target
