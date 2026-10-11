@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+  <rect width="1280" height="640" fill="#101114"/>
+  <rect x="0" y="0" width="8" height="640" fill="#c4784a"/>
+
+  <text x="64" y="78" fill="#a39e94" font-family="iA Writer Mono S, Liberation Mono, monospace" font-size="15" letter-spacing="2.4">SMF WORKS  ·  MEASURED 2026-10-11</text>
+
+  <text x="64" y="168" fill="#f4f1ea" font-family="Liberation Sans" font-weight="700" font-size="72">Strix Halo</text>
+  <text x="64" y="236" fill="#c4784a" font-family="Liberation Sans" font-weight="700" font-size="48">image recipes</text>
+
+  <text x="64" y="292" fill="#d8d3c8" font-family="Liberation Sans" font-size="22">Two ComfyUI setups, run on Omarchy.</text>
+  <text x="64" y="324" fill="#a39e94" font-family="Liberation Sans" font-size="18">GMKtec EVO-X2  ·  Radeon 8060S  ·  gfx1151</text>
+
+  <text x="64" y="392" fill="#a39e94" font-family="iA Writer Mono S, Liberation Mono, monospace" font-size="13" letter-spacing="1.2">KERNEL MEMORY SPLIT</text>
+
+  <rect x="64" y="408" width="286" height="18" fill="#3d6b58"/>
+  <rect x="354" y="408" width="294" height="18" fill="#c4784a"/>
+  <text x="64" y="450" fill="#d8d3c8" font-family="iA Writer Mono S, Liberation Mono, monospace" font-size="14">46.7 GiB RAM</text>
+  <text x="648" y="450" fill="#d8d3c8" font-family="iA Writer Mono S, Liberation Mono, monospace" font-size="14" text-anchor="end">48 GiB VRAM</text>
+  <text x="64" y="478" fill="#7d7870" font-family="Liberation Sans" font-size="15">GTT is not extra RAM. Not the 128 GB Halo kit.</text>
+
+  <rect x="740" y="96" width="476" height="196" rx="8" fill="#181b22" stroke="#2a2e38"/>
+  <text x="768" y="136" fill="#7d9a86" font-family="iA Writer Mono S, Liberation Mono, monospace" font-size="13" letter-spacing="1.6">STANDING</text>
+  <text x="768" y="178" fill="#f4f1ea" font-family="Liberation Sans" font-weight="700" font-size="28">Z-Image Turbo</text>
+  <text x="768" y="214" fill="#d8d3c8" font-family="Liberation Sans" font-size="18">8 steps  ·  Apache-2.0</text>
+  <text x="768" y="248" fill="#a39e94" font-family="Liberation Sans" font-size="16">Eight images peaked at 56°C.</text>
+  <text x="768" y="272" fill="#a39e94" font-family="Liberation Sans" font-size="16">AuraFlow shift 3. CLIP type lumina2.</text>
+
+  <rect x="740" y="316" width="476" height="220" rx="8" fill="#181b22" stroke="#2a2e38"/>
+  <text x="768" y="356" fill="#c4784a" font-family="iA Writer Mono S, Liberation Mono, monospace" font-size="13" letter-spacing="1.6">QUALITY  ·  SAME PROCESS</text>
+  <text x="768" y="398" fill="#f4f1ea" font-family="Liberation Sans" font-weight="700" font-size="28">Qwen-Image-2.1</text>
+  <text x="768" y="434" fill="#d8d3c8" font-family="Liberation Sans" font-size="18">25 steps  ·  INT8  ·  not Apache-2.0</text>
+  <text x="768" y="468" fill="#a39e94" font-family="Liberation Sans" font-size="16">Hold the edge at or under 46°C</text>
+  <text x="768" y="492" fill="#a39e94" font-family="Liberation Sans" font-size="16">for 120 seconds before the next job.</text>
+  <text x="768" y="516" fill="#7d7870" font-family="Liberation Sans" font-size="15">Do not load both models together.</text>
+
+  <text x="64" y="590" fill="#7d7870" font-family="iA Writer Mono S, Liberation Mono, monospace" font-size="14">127.0.0.1:8188   ·   one model at a time   ·   not a laptop recipe</text>
+</svg>

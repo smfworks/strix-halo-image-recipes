@@ -1,5 +1,7 @@
 # Strix Halo image recipes
 
+![Two measured ComfyUI setups on a Strix Halo box running Omarchy. Z-Image Turbo is the standing model. Qwen-Image-2.1 is the quality model on the same process.](assets/hero.png)
+
 Measured ComfyUI setups for AMD Strix Halo machines running Omarchy. These are the two configurations we actually ran on 2026-10-11. They are not a catalog of models we have only read about.
 
 The box was a GMKtec EVO-X2. Ryzen AI Max+ 395, Radeon 8060S, gfx1151. Omarchy 4.0.4, kernel `7.2.5-3-omarchy`. The kernel saw 46.7 GiB of system RAM and a 48 GiB dedicated VRAM carveout. That is not the AMD Ryzen AI Halo developer kit, and these notes do not tell you to match that kit.
